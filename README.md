@@ -8,7 +8,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Engineering in Software Development and Management .\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm a Higher Technician in Multiplatform Software Development .\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks .\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
