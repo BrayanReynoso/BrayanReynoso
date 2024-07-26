@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://drive.google.com/file/d/1wSyP6eU05Y1kwPTL4CZDZNXmn-kU8xDK/view?usp=sharing" height="200"/>
+  <img src="https://drive.google.com/file/d/1wSyP6eU05Y1kwPTL4CZDZNXmn-kU8xDK/view?usp=sharing" height="200"/>
 </p>
 </p>
 <hr>
